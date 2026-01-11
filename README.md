@@ -1,2 +1,26 @@
 # parocyber-final-capstone-penetration-testing
 Final capstone Ethical hacker
+# Overview
+This repository documents the completion of the ParoCyber final capstone activity, a hands-on ethical hacking and penetration testing project with Cisco Networking Academy.
+The objective of this course was to conduct a full penetration testing engagement like
+         Reconnaissance
+         Vulnerability discovery
+         Exploitation
+         Flag capturing
+         Recommendations or Remediations
+# Scope & Objectives
+        Perform SQL injection attacks to retrieve sensitive information
+        Exploit web server  misconfigurations 
+        Enumerate and exploit open SMB shares
+        Analyze packet capture or PCAP files 
+        Propose mitigation strategies or remediations
+# Target networks
+        10.5.5.0/24
+        192.168.0.0/24
+# Challenge 1: SQL Injection
+        Identified vulnerable input fields
+        Extracted database credentials using SQL injection payloads
+        Cracked password hashes
+        Accessed a protected system using compromised credentials 
+        Retrieved the Flag 
+# Challenge 2: Web Server Vulnerabilities
