@@ -24,3 +24,8 @@ The objective of this course was to conduct a full penetration testing engagemen
         Accessed a protected system using compromised credentials 
         Retrieved the Flag 
 # Challenge 2: Web Server Vulnerabilities
+         Conducted directory enumeration
+         Identified directory listing misconfigurations
+         Navigated exposed subdirectories
+         Retrieved flag file via URL manipulation
+Skills learned: Web reconnaissance, directory enumeration
