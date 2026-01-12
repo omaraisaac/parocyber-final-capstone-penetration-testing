@@ -29,3 +29,32 @@ The objective of this course was to conduct a full penetration testing engagemen
          Navigated exposed subdirectories
          Retrieved flag file via URL manipulation
 Skills learned: Web reconnaissance, directory enumeration
+# Challenge 3: SMB Share Exploitation
+         Scanned the network for SMB services
+         Enumerated anonymous shares 
+         Accessed unsecured SMB directories
+         Downloaded and analyzed flags
+Key skills: SMB enumeration, lateral access
+# Challenge 4: PCAP Analysis
+         Analysed captured network traffic using Wireshark
+         Identified sensitive data transmitted in clear text
+         Extracted URLs, IP addresses, and exposed file contents
+         Retrieved final challenge flag
+Skills learned: Network traffic Analysis, Data exposure detection
+# Tools Used
+         DVWA
+         Kali Linux
+         NMAP
+         SMBclient
+         Web Browser Development Tools
+         Wireshark
+# Remediation 
+Each challenge includes remediation guidance covering:
+         Input validation and prepared statements
+         SMB access control and hardening
+         Encryption of data in transit (HTTPS, SMB signing)
+         Secure web server configuration
+# Disclaimer
+This project was completed and designed for strictly educational purposes in a controlled laboratory environment. Unauthorised testing against live systems is illegal and prohibited.
+# Author
+Omara Isaac Lucky | Uopeople University | SOC Analyst L1 | Cybersecurity
